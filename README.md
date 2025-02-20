@@ -19,10 +19,20 @@ This is my readme.md
 
   I am practicing using GitHub. To help practice I have created a repository that highlights different codes.
 
-  ## How to Run Program
+ ## Files Used
 
-  This is how I would run the program and what files I used
-  ```text
+ I did not use any dditional filenames or datafiles 
+
+ ## Additional Documentation 
+
+ No additional documentation at this time 
+
+ ## VErsioning 
+
+ Current BAIS student at the University of Iowa
+
+ ## How to Run a Program 
+ ```text
 Hello_World/
 └── 
     │── README.md
@@ -31,7 +41,5 @@ Hello_World/
     │── examples.html
    
 ```
-
-## Files Used 
 
   
